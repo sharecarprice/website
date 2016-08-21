@@ -37,7 +37,7 @@ googleAnalytics = ""
 	# Navigation
 	[params.navigation]
 		brand = "Carystal"
-		services = "Services"
+		services = "Our Mission"
 		portfolio = "Portfolio"
 		about = "About"
 		team = "Team"
@@ -75,22 +75,21 @@ googleAnalytics = ""
 		title = "Our Mission"
 		subtitle = "Our mission is to make car buying crystal clear. You do not have to be a great negotiator to get a fair price, you do not need to drive around multiple dealerships to get a good deal. We provide a platform to let people easily share their purchases, so you see what ther others have exactly paid for."
 
-        [[params.services.row]]
-
-            [[params.services.row.list]]
-                icon = "fa-shopping-cart"
-                title = "E-Commerce"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-
-            [[params.services.row.list]]
-                icon = "fa-laptop"
-                title = "Responsive Design"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-
-            [[params.services.row.list]]
-                icon = "fa-lock"
-                title = "Web"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        [[params.services.row]]
+#            [[params.services.row.list]]
+#                icon = "fa-shopping-cart"
+#                title = "E-Commerce"
+#                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#
+#            [[params.services.row.list]]
+#                icon = "fa-laptop"
+#                title = "Responsive Design"
+#                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#
+#            [[params.services.row.list]]
+#                icon = "fa-lock"
+#                title = "Web"
+#                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
 	# Portfolio section
 	[params.portfolio]
