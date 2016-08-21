@@ -73,7 +73,7 @@ googleAnalytics = ""
 	[params.services]
         enable = true
 		title = "Services"
-		subtitle = "We provide services to NEW CAR BUYER for bidding a better price, with crowd sharing style."
+		subtitle = "We provide services to new car buyers for bidding a better price, with crowd sharing style."
 
         [[params.services.row]]
 
