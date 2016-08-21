@@ -253,4 +253,4 @@ googleAnalytics = ""
 
 		[[params.footer.quicklinks]]
 			text = "Terms of Use"
-			link = "#"
+			link = "term_of_services.html"
