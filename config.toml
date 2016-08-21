@@ -73,7 +73,7 @@ googleAnalytics = ""
 	[params.services]
         enable = true
 		title = "Our Mission"
-		subtitle = "Our mission is to make car buying crystal clear. You do not have to be a great negotiator to get a fair price, you do not need to drive around multiple dealerships to get a good deal. We provide a platform to let people easily share their purchases, so you see what ther others have exactly paid for."
+		subtitle = "Our mission is to make car buying crystal clear. You do not have to be a great negotiator to get a fair price, you do not need to drive around multiple dealerships to get a good deal. We provide a platform to let people easily share their purchases, so you see what others have paid for."
 
 #        [[params.services.row]]
 #            [[params.services.row.list]]
@@ -110,7 +110,7 @@ googleAnalytics = ""
 
     # About section
 	[params.about]
-        enable = true
+        enable = false
 		title = "About"
 		subtitle = "Lorem ipsum dolor sit amet consectetur."
 		endpoint = "Be part<br>of our<br>story!"
@@ -145,7 +145,7 @@ googleAnalytics = ""
 
 	# Team section
 	[params.team]
-        enable = true
+        enable = false
 		title = "Our amazing team"
 		subtitle = "Lorem ipsum dolor sit amet consectetur."
 		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
@@ -184,7 +184,7 @@ googleAnalytics = ""
 
 	# Client section
     [params.clients_list]
-        enable = true
+        enable = false
 
     	# All the clients' logos are stored under 'static/img/logos'.
     	# Replace them with your clients's logos.
