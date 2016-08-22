@@ -249,8 +249,8 @@ googleAnalytics = ""
 
 		[[params.footer.quicklinks]]
 			text = "Privacy Policy"
-			link = "#"
+			link = "privacy_policy.html"
 
 		[[params.footer.quicklinks]]
-			text = "Terms of Use"
+			text = "Terms of Services"
 			link = "term_of_services.html"
