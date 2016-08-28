@@ -64,9 +64,9 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "Welcome To Carystal!"
-		subtitle = "It's nice to meet you"
-		buttonText = "Tell me more"
+		#title = "Welcome To Carystal!"
+		#subtitle = "It's nice to meet you"
+		#buttonText = "Tell me more"
 
 
 	# Services section
