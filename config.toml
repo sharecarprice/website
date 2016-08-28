@@ -157,9 +157,9 @@ googleAnalytics = ""
 			name = "Kay Garland"
 			position = "Lead Designer"
 			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
+	        #       	["fa-twitter", "#"],
+	        #		["fa-facebook", "#"],
+	        #	        ["fa-linkedin", "#"]
 			]
 
 		[[params.team.members]]
