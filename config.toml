@@ -157,9 +157,9 @@ googleAnalytics = ""
 			name = "Kay Garland"
 			position = "Lead Designer"
 			social = [
-	        #       	["fa-twitter", "#"],
-	        #		["fa-facebook", "#"],
-	        #	        ["fa-linkedin", "#"]
+	                	["fa-twitter", "#"],
+	        		["fa-facebook", "#"],
+	        	        ["fa-linkedin", "#"]
 			]
 
 		[[params.team.members]]
@@ -235,17 +235,17 @@ googleAnalytics = ""
         enable = true
 		copyright = "Published under the Apache License 2.0."
 
-		[[params.footer.social]]
-			icon = "fa-twitter"
-			link = "#"
+		#[[params.footer.social]]
+	        #	icon = "fa-twitter"
+	        #	link = "#"
 
-		[[params.footer.social]]
-			icon = "fa-facebook"
-			link = "#"
+		# [[params.footer.social]]
+		#	icon = "fa-facebook"
+		#	link = "#"
 
-		[[params.footer.social]]
-			icon = "fa-linkedin"
-			link = "#"
+		#[[params.footer.social]]
+		#	icon = "fa-linkedin"
+		#	link = "#"
 
 		[[params.footer.quicklinks]]
 			text = "Privacy Policy"
