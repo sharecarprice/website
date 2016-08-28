@@ -209,7 +209,7 @@ googleAnalytics = ""
 	[params.contact]
         enable = true
 		title = "Contact us"
-		subtitle  = "Lorem ipsum dolor sit amet consectetur."
+		subtitle  = "Please send us a message if you have any questions"
 		buttonText = "Send message"
 
 		# 'warning' defines error messages for invalid inputs
